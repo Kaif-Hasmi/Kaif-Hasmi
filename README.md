@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kaif
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently Mastering Javascript
-- 💞️ I’m looking to collaborate on Open Source Community
+- 👋 Hi, I’m Kaif.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently Mastering Javascript.
+- 💞️ I’m looking to collaborate on Open Source Community.
 
 
 <!---

@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @Kaif-Hasmi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kaif
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on Open Source Community
+
 
 <!---
 Kaif-Hasmi/Kaif-Hasmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="left">Hi 👋! My name is Kaif and I'm a Student from India.</h2>
 
 ###
 
